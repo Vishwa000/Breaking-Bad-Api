@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    height: 100%;
+    background-image: url(./img/wp6794179-breaking-bad-4k-wallpapers.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+p{
+   
+    font-family: "Poppins";
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+}
+    
+h3{
+    font-family: "Poppins";
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: 0.5px white;
+    font-size: 32px;
+    margin-left: -13px;
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Poppins";
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: 1px whitesmoke;
+    background: linear-gradient(351deg,red,blue);
+    -webkit-background-clip: text;
+}
+#style{
+    font-family: "Poppins";
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: 0.5px goldenrod;
+    font-size: 20px;
+    padding-right: 3px;
+    border-right: 3px;
+   
+}
+.text{
+    border: 0.25px solid #ffffff;
+    border-radius: 10px;
+    background-color: black;
+    font-size:1em;
+    color: ghostwhite;
+    margin-right: 37px;
+}
+
